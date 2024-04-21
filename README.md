@@ -22,13 +22,13 @@ The leetcode comprises of Array (Easy, Medium, Hard Collection) questions. Would
     <tr>
       <td>2.</td>
       <td>Best Time to Buy and Sell Stock II</td>
-      <td><a href="">Link</a></td>
+      <td><a href="https://github.com/vanditaverma/LeetCode-Array-Python/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py">Link</a></td>
       <td>Select</td>
     </tr>
     <tr>
       <td>3.</td>
       <td>Rotate Array</td>
-      <td><a href="">Link</a></td>
+      <td><a href="https://github.com/vanditaverma/LeetCode-Array-Python/blob/main/Rotate%20Array.py">Link</a></td>
       <td>Select</td>
     </tr>
     <tr>
