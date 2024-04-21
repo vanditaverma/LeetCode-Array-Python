@@ -15,7 +15,7 @@ The leetcode comprises of Array (Easy, Medium, Hard Collection) questions. Would
     <tr>
       <td>1.</td>
       <td>Remove Duplicates from Sorted Array</td>
-      <td><a href="">Link</a></td>
+      <td><a href="https://github.com/vanditaverma/LeetCode-Array-Python/blob/main/Remove%20Duplicates%3A.py">Link</a></td>
       <td>Select</td>
     </tr>
     <!-- Add more rows below -->
